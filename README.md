@@ -1,1 +1,1 @@
-This project is landing page that makes banking easy
+This project is a landing page that makes banking easy
